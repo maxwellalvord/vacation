@@ -1,0 +1,21 @@
+.package {
+  color: red;
+  text-align: center;
+}
+
+.bg-success {
+  color: yellow;
+  font-weight: bold;
+}
+
+body {
+  background-image: url(https://www.gohawaii.com/sites/default/files/styles/wide_carousel_large/public/content-carousel-images/10105_mauiregionslp_VideoThumbnail.jpg?itok=vzKj-jK9);
+}
+
+.col-6 {
+  background-color: white;
+}
+
+.test {
+  text-align: center;
+}
